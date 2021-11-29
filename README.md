@@ -9,6 +9,21 @@ a paddle that moves horizontally at the bottom of the
 screen. The objective is to keep all the balls alive.
 Each ball will have its own speed, size, and color.
 
+**Users can:**
+- Add/remove balls of different sizes, speed, and color
+- Change the width and speed of the paddle
+- Save/load the state of the game
+
+This project is of interest to me for the following
+reasons:
+- I've always wanted to build a desktop application.
+- I'm fascinated by the OG computer games
+like Space Invaders, Snake, Brick Breakers, and Pong.
+It's always interested me how such simple games could
+captivate the interest of so many people.
+- At the end of the day, I just think that
+this will be a lot of fun to build.
+
 **Who's it for?**
 
 The target audience for Juggler is just about anyone
