@@ -3,17 +3,20 @@
 ## Keep the balls alive!
 
 **What does the application do?**
+
 Juggler is a game where users deflect balls using
 a paddle that moves horizontally at the bottom of the
 screen. The objective is to keep all the balls alive.
 Each ball will have its own speed, size, and color.
 
 **Users can:**
+
 - Add/remove balls of different sizes, speed, and color
 - Change the width and speed of the paddle
 - Save/load the state of the game
 
 **Who's it for?**
+
 The target audience for Juggler is just about anyone
 who's bored and looking for a quick, fun, game to
 play. Students may especially like it
@@ -21,6 +24,7 @@ as it will probably help them stay awake during lectures.
 
 **This project is of interest to me for the following
 reasons:**
+
 - I've always wanted to build a desktop application.
 - I'm fascinated by the OG computer games
 like Space Invaders, Snake, Brick Breakers, and Pong.
