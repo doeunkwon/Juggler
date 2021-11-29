@@ -30,4 +30,6 @@ this will be a lot of fun to build.
 
 Check out the UML design diagram for this project in the files!
 
-![](gameplay.mov)
+https://user-images.githubusercontent.com/88988886/143960611-fcba80c2-db0a-4788-8726-7bbe7ac2b968.mov
+
+
