@@ -29,3 +29,7 @@ captivate the interest of so many people.
 this will be a lot of fun to build.
 
 Check out the UML design diagram for this project in the files!
+
+<video width="320" height="240" controls>
+  <source src="gameplay.mov" type="video/mp4">
+</video>
