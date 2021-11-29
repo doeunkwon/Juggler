@@ -1,0 +1,36 @@
+{
+    "ball": "model.Ball@3a883ce7",
+    "stop": false,
+    "balls": [
+        {
+            "x1Velocity": 5,
+            "size": 30,
+            "color": "-16776961",
+            "y1Velocity": 6,
+            "y1": 10,
+            "x1": 439
+        },
+        {
+            "x1Velocity": 6,
+            "size": 20,
+            "color": "-65536",
+            "y1Velocity": 7,
+            "y1": 10,
+            "x1": 157
+        },
+        {
+            "x1Velocity": 6,
+            "size": 4,
+            "color": "-65536",
+            "y1Velocity": 7,
+            "y1": 10,
+            "x1": 772
+        }
+    ],
+    "paddle": {
+        "whichWay": 1,
+        "width": 12,
+        "x1": 400,
+        "speed": 10
+    }
+}
