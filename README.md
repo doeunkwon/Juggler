@@ -37,4 +37,6 @@ Check out the UML design diagram for this project in the files!
 
 https://user-images.githubusercontent.com/88988886/143960611-fcba80c2-db0a-4788-8726-7bbe7ac2b968.mov
 
+[UML_Design_Diagram.pdf](https://github.com/doeunkwon/Juggler/files/7663412/UML_Design_Diagram.pdf)
+
 
