@@ -1,6 +1,8 @@
-# Juggler
+# 🤹🏻 Juggler
 
-### What does the application do?
+> The most addicting game ever created.
+
+### Description
 
 Juggler is a game where users deflect balls using
 a paddle that moves horizontally at the bottom of the
@@ -13,14 +15,14 @@ Each ball will have its own speed, size, and color.
 - Change the width and speed of the paddle
 - Save/load the state of the game
 
-### Who's it for?
+### Audience
 
 The target audience for Juggler is just about anyone
 who's bored and looking for a quick, fun, game to
 play. Students may especially like it
 as it will probably help them stay awake during lectures.
 
-### Reason
+### Motivation
 
 - I've always wanted to build a desktop application.
 - I'm fascinated by the OG computer games
@@ -29,8 +31,6 @@ It's always interested me how such simple games could
 captivate the interest of so many people.
 - At the end of the day, I just think that
 this will be a lot of fun to build.
-
-Check out the UML design diagram for this project in the files!
 
 https://user-images.githubusercontent.com/88988886/143960611-fcba80c2-db0a-4788-8726-7bbe7ac2b968.mov
 
