@@ -32,7 +32,11 @@ captivate the interest of so many people.
 - At the end of the day, I just think that
 this will be a lot of fun to build.
 
+### Gameplay
+
 https://user-images.githubusercontent.com/88988886/143960611-fcba80c2-db0a-4788-8726-7bbe7ac2b968.mov
+
+### UML Design Diagram
 
 ![UML_Design_Diagram-1](https://user-images.githubusercontent.com/88988886/144918521-138ff63c-0996-48af-9355-fdd081da4784.png)
 
