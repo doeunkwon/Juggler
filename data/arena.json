@@ -1,0 +1,60 @@
+{
+    "ball": "model.Ball@5463dc54",
+    "stop": false,
+    "balls": [
+        {
+            "x1Velocity": 8,
+            "size": 30,
+            "color": "-1125540",
+            "y1Velocity": 3,
+            "y1": 10,
+            "x1": 254
+        },
+        {
+            "x1Velocity": 10,
+            "size": 50,
+            "color": "-8010500",
+            "y1Velocity": 5,
+            "y1": 10,
+            "x1": 301
+        },
+        {
+            "x1Velocity": 6,
+            "size": 30,
+            "color": "-14487165",
+            "y1Velocity": 7,
+            "y1": 10,
+            "x1": 213
+        },
+        {
+            "x1Velocity": 3,
+            "size": 30,
+            "color": "-1421268",
+            "y1Velocity": 4,
+            "y1": 10,
+            "x1": 297
+        },
+        {
+            "x1Velocity": 4,
+            "size": 40,
+            "color": "-10857251",
+            "y1Velocity": 6,
+            "y1": 10,
+            "x1": 75
+        },
+        {
+            "x1Velocity": 6,
+            "size": 30,
+            "color": "-9223631",
+            "y1Velocity": 2,
+            "y1": 10,
+            "x1": 200
+        }
+    ],
+    "paddle": {
+        "whichWay": -1,
+        "width": 75,
+        "x1": 200,
+        "speed": 17
+    }
+}

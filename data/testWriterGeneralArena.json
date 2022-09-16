@@ -1,0 +1,28 @@
+{
+    "ball": "model.Ball@34c4973",
+    "stop": false,
+    "balls": [
+        {
+            "x1Velocity": 3,
+            "size": 10,
+            "color": "-65536",
+            "y1Velocity": 4,
+            "y1": 2,
+            "x1": 1
+        },
+        {
+            "x1Velocity": 6,
+            "size": 20,
+            "color": "-16776961",
+            "y1Velocity": 8,
+            "y1": 4,
+            "x1": 2
+        }
+    ],
+    "paddle": {
+        "whichWay": -1,
+        "width": 10,
+        "x1": 1,
+        "speed": 2
+    }
+}

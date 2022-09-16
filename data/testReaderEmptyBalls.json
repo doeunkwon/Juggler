@@ -1,0 +1,11 @@
+{
+  "ball": "model.Ball@9807454",
+  "stop": false,
+  "balls": [],
+  "paddle": {
+    "whichWay": 1,
+    "width": 12,
+    "x1": 400,
+    "speed": 10
+  }
+}
