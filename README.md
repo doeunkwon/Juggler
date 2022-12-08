@@ -1,5 +1,5 @@
 # Juggler
-A juggling game written in Java.
+> A juggling game written in Java.
 
 ## Description
 - Built on Java & Java Swing
